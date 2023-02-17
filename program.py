@@ -1,2 +1,4 @@
-# I am autor!
-print("MY first Git program")
+
+print("My first Git program!!!")
+#2023 (c) Me
+
